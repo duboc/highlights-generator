@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Temp files
+*.log
+tmp/
+temp/
+
+# Local development
+*.mp4
+uploads/
+highlights/ 
